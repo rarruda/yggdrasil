@@ -3,6 +3,7 @@
 members = [
   "unleash-yggdrasil",
   "node-sdk",
+  "ruby-sdk",
   "python-sdk",
   "bindings",
   "java-sdk/java-glue",
